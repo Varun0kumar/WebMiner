@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-While developing a chatbot for my company, I needed structured and clean data from the company website.
+While developing a chatbot for our company, I needed structured and clean data from the company website.
 
 Instead of manually extracting content, I built **WebMiner** — a robust and automated pipeline that:
 
